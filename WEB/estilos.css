@@ -1,4 +1,19 @@
-body{
-    background: #ff0000;
-    color:#ffffff;
+h2{
+  color:green;  
+}
+
+h2{
+    font-size: 20px;
+}
+/*Para acceder a un enlace dentro de un parrafo i cambiar algo*/
+p a{
+    
+}
+/* para acceder a un id, solo una vez*/
+#id{
+
+}
+/* para acceder a una clase, mucho mejor que id*/
+.clase{
+    
 }
